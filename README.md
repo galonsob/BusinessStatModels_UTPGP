@@ -45,7 +45,7 @@ Each business question is addressed using a structured 7-step hypothesis testing
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **Python Libraries**:
   - `pandas`
